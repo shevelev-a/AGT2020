@@ -14,4 +14,4 @@
 Нормализуем и находим спектр этой матрицы.
 Спектру сопоставляем набор нот.
 Проиграть получившийся набор нот, с учетом алгебраической кратности каждого собственного значения. 
-![Image of Yaktocat](https://github.com/shevelev-a/AGT2020y/graph_example.png)
+![Image of Yaktocat](https://github.com/shevelev-a/AGT2020/graph_example.png)
